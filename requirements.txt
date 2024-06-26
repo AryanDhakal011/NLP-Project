@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+nltk
+spacy
+torch
+transformers
+sentence-transformers
+langchain
+python-dotenv
+faiss-cpu
